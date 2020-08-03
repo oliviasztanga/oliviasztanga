@@ -1,4 +1,4 @@
-<img src="https://github.com/oliviasztanga/oliviasztanga/blob/master/github-header.png?raw=true" alt="banner that says 'Hi, I'm Olivia & I love to build things. I'm a software engineer based out of New York, NY.'">
+<img src="https://github.com/oliviasztanga/oliviasztanga/blob/master/github-header-2.png?raw=true" alt="banner that says 'Hi, I'm Olivia & I love to build things. I'm a software engineer based out of New York, NY.'">
 <p align="center">
   <a href="https://oliviasztanga.com/">website</a> | 
   <a href="mailto:me@oliviasztanga.com">email</a> |
